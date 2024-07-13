@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-- 🔭 I’m currently working on **Django Interactive Dashboard**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Flask, MERN & Django**
+- 🌱 I’m currently learning **Flask,Angular MERN & Django**
 
 - 🤝 I’m looking for help with **Instagram Clone**
 
