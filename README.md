@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **MERN & Django**
 
 - 🌱 I’m currently learning **Flask,Angular MERN & Django**
 
