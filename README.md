@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Flask,Angular MERN & Django**
 
-- 🤝 I’m looking for help with **Instagram Clone**
-
 <!-- - 👨‍💻 All of my projects are available at [www.github.com.link](www.github.com.link) -->
 
 
